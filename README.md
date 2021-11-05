@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @soumy-a11.
+- 👋 Hi, I’m sojo.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning game and software develpment.
-- 💞️ I’m looking to collaborate to make a video editing software.
 - 📫 How to reach me soumyjohar@gmail.com.
 
 <!---
